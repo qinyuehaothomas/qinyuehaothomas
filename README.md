@@ -1,4 +1,4 @@
-<h1  class="typewriter" align="center">Hi 👋, I'm Tqin3907</h1>
+<h1  align="center">Hi 👋, I'm Tqin3907</h1>
 
 
 I am a JC student in Singapore, who does variety of random projects. I really enjoy the moment of "harvest", when i can show my work to the world!
@@ -26,30 +26,3 @@ Check out my portfolio [HERE!](TODO)
 
 
 <!-- Made with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<!-- Typewriter effect -->
-<!-- From here: https://css-tricks.com/snippets/css/typewriter-effect/ -->
-
-<style>
-    .typewriter h1 {
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  animation: 
-    typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
-}
-
-/* The typing effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}   
-</style>
